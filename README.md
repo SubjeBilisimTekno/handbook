@@ -4,7 +4,7 @@
 
 ## Remote Çalışma
 
-### Sprint Status Toplantıları
+## Sprint Status Toplantıları
 
 Her Pazartesi, Çarşamba ve Cuma günleri saat 9:00-12:00 arası yapılır. Pazartesi olan status toplantıları ofise gelerek yüz yüze yapılır.
 
@@ -25,10 +25,9 @@ Bunun için Slack üzerinde [BotMyWork](https://botmywork.com/busyon-slack/) kul
 
 <details>
 <summary>8:15 saatini kaçırdım ne yapmalıyım?</summary>
-<br><pre>
+<br>
 Ekip üyelerinin gün içinde toplam 8 saat çalışmaları öngörülüyor, istenmeyen bir durumdan dolayı sabah geç güne başlanırsa akşam saatlerinde telafi edilebilir. Tekrarlandığı durumda yöneticiden uyarı ve çözüm için birebir görüşme talebi gelir. Çalışma ve iş başında olduğun her an erişilebilir olmalısın, olamayacağın zaman önceden bununla ilgili yöneticiyi haberdar etmen gerekir.
 <br><br>
-</pre>
 </details>
 
 <details>
@@ -41,6 +40,22 @@ Evet, güne başladığın saat bilgisayar başında, ve ulaşılabilir olduğun
 <details>
 <summary>Gün içinde uzun araya ihtiyacım olursa akşam devam edebilir miyim?</summary>
 <br>
-Yöneticiden izin alman gerekir, uygun görüldüğü takdirde evet yapılabilir.
+Yöneticiden izin alman gerekir, uygun görüldüğü takdirde evet remote esnek çalışma yapılabilir.
 <br><br>
 </details>
+
+## Jira ve Trello Kullanılması
+
+Yapılması planlanan, yapılıyor ve tamamlandı/kontrol aşamasında olan işlemlerin kırılımlı halde Trelloda belirtilmesi (Bu maddeler her sprint'in başında belirlenecek olup sprint süresi içerisinde bitirilmesi beklenir)
+
+## Gün Sonu Raporu
+
+Her günün sonunda kullanılan araçlardan (Slack, Jira, etc.) toplanan verilerin kümülatif halde tek bir yerde tutulması.
+
+## Sprint (Planning, review ve retro) Durum Raporu
+
+Her sprint'in sonunda sprint başarısını ölçmek için sprint çıktılarının raporlanması (Pie-chart, success & failures, lessons, Do's and Don't's vs.)
+
+## Bayrak Kaldırma
+
+Dikkat edilmesi ve ekibin dikkatinin çekilmesi gereken noktalarda bunu yönetici/ekip bilmeli. Önlem almak için dikkat edilmesi gereken herhangi bir konu oluştuğunda bunun gündeme getirilmesi.
