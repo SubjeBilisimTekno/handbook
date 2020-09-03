@@ -24,6 +24,6 @@ Gün içinde uzun ara (15dk'den fazla) vermek istediğimizde ekip arkadaşlarım
 <details>
 <summary>8:15 saatini kaçırdım ne yapmalıyım?</summary>
 <br>
-This is how you dropdown.
+s
 <br><br>
 </details>
