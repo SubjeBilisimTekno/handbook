@@ -64,7 +64,7 @@ Her sprint'in sonunda sprint başarısını ölçmek için sprint çıktıların
 
 Dikkat edilmesi ve ekibin dikkatinin çekilmesi gereken noktalarda bunu yönetici/ekip bilmeli. Önlem almak için dikkat edilmesi gereken herhangi bir konu oluştuğunda bunun gündeme getirilmesi.
 
-> Eklenmesi gereken şeyler
+> **Eklenmesi gereken diğer şeyler**
 >
 > - Şirketle ilgili ve ne yaptığıyla ilgili kısa bir anlatım
 > - Var olan checklistlere link verilmesi
