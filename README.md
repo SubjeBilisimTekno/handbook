@@ -6,7 +6,7 @@
 
 ### Sprint Status Toplantıları
 
-Her Pazartesi, Çarşamba ve Cuma günleri saat 09:00-12:00 arası yapılır. Pazartesi olan status toplantıları ofise gelerek yüz yüze yapılır.
+Her Pazartesi, Çarşamba ve Cuma günleri saat 9:00-12:00 arası yapılır. Pazartesi olan status toplantıları ofise gelerek yüz yüze yapılır.
 
 ### Check-in, Check-out ve Break.
 
@@ -20,3 +20,10 @@ Günün bittiğini işaret eder ve bunun için belirlenmiş bir saat yoktur. Che
 
 **Break**
 Gün içinde uzun ara (15dk'den fazla) vermek istediğimizde ekip arkadaşlarımıza bildirmemiz gerekir. Aynı şekilde geri döndüğümüzde de Back olarak bildirmemiz gerekir. Örn. Break: Bankaya gittim.
+
+<details>
+<summary>8:15 saatini kaçırdım ne yapmalıyım?</summary>
+<br>
+This is how you dropdown.
+<br><br>
+</details>
