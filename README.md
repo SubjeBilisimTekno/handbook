@@ -55,7 +55,7 @@ Yapılması planlanan, yapılıyor ve tamamlandı/kontrol aşamasında olan işl
 Her günün sonunda kullanılan araçlardan (Slack, Jira, etc.) toplanan verilerin kümülatif halde tek bir yerde tutulması.
 <br>
 
-## Sprint (Planning, review ve retro) Durum Raporu
+## Sprint Durum Raporu (Planning, review ve retro)
 
 Her sprint'in sonunda sprint başarısını ölçmek için sprint çıktılarının raporlanması (Pie-chart, success & failures, lessons, Do's and Don't's vs.)
 <br>
