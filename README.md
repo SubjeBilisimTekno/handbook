@@ -13,17 +13,33 @@ Her Pazartesi, Çarşamba ve Cuma günleri saat 9:00-12:00 arası yapılır. Paz
 Bunun için Slack üzerinde [BotMyWork](https://botmywork.com/busyon-slack/) kullanıyoruz. Yazılan check-in, check-out ve break'ler herkes tarafından anlaşılabilir ve yapılacak/yapılan işle alakalı yeteri kadar bilgi içermelidir.
 
 **Check-in**
-Gün başladı ve artık ulaşılabilirim demektir. Her sabah saat 8:00 ile 8:15 arası ekibin tamamı işi başında check-in yapar ve gün içinde yapmayı planladığı görevleri sıralar.
+<br>Gün başladı ve artık ulaşılabilirim demektir. Her sabah saat 8:00 ile 8:15 arası ekibin tamamı işi başında check-in yapar ve gün içinde yapmayı planladığı görevleri sıralar.
 
 **Check-out**
-Günün bittiğini işaret eder ve bunun için belirlenmiş bir saat yoktur. Check-out yaparken gün içinde hangi görevleri tamamladığımızı yazarız. Hafta içi her gün en az 8-10 saat çalışma süresi öngörülüyor.
+<br>Günün bittiğini işaret eder ve bunun için belirlenmiş bir saat yoktur. Check-out yaparken gün içinde hangi görevleri tamamladığımızı yazarız. Hafta içi her gün en az 8-10 saat çalışma süresi öngörülüyor.
 
 **Break**
-Gün içinde uzun ara (15dk'den fazla) vermek istediğimizde ekip arkadaşlarımıza bildirmemiz gerekir. Aynı şekilde geri döndüğümüzde de Back olarak bildirmemiz gerekir. Örn. Break: Bankaya gittim.
+<br>Gün içinde uzun ara (15dk'den fazla) vermek istediğimizde ekip arkadaşlarımıza bildirmemiz gerekir. Aynı şekilde geri döndüğümüzde de Back olarak bildirmemiz gerekir. Örn. Break: Bankaya gittim.
+
+### SSS
 
 <details>
 <summary>8:15 saatini kaçırdım ne yapmalıyım?</summary>
 <br>
-s
+Ekip üyelerinin gün içinde toplam 8 saat çalışmaları öngörülüyor, istenmeyen bir durumdan dolayı sabah geç güne başlanırsa akşam saatlerinde telafi edilebilir. Tekrarlandığı durumda yöneticiden uyarı ve çözüm için birebir görüşme talebi gelir. Çalışma ve iş başında olduğun her an erişilebilir olmalısın, olamayacağın zaman önceden bununla ilgili yöneticiyi haberdar etmen gerekir.
+<br><br>
+</details>
+
+<details>
+<summary>Güne erken başlarsam erken günü sonlandırabilir miyim?</summary>
+<br>
+Evet, güne başladığın saat bilgisayar başında, ve ulaşılabilir olduğunu ifade eder (Esnek çalışma saatleri). Gün sonu görev tamamlama beklentisi değişmez.
+<br><br>
+</details>
+
+<details>
+<summary>Gün içinde uzun araya ihtiyacım olursa akşam devam edebilir miyim?</summary>
+<br>
+Yöneticiden izin alman gerekir, uygun görüldüğü takdirde evet yapılabilir.
 <br><br>
 </details>
