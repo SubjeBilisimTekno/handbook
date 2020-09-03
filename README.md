@@ -10,7 +10,7 @@ Her Pazartesi, Çarşamba ve Cuma günleri saat 9:00-12:00 arası yapılır. Paz
 
 ### Check-in, Check-out ve Break.
 
-Bunun için Slack üzerinde [BotMyWork](https://botmywork.com/busyon-slack/) kullanıyoruz. Yazılan check-in, check-out ve break'ler herkes tarafından anlaşılabilir ve yapılacak/yapılan işle alakalı yeteri kadar bilgi içermelidir.
+Bunun için Slack üzerinde 👾[BotMyWork](https://botmywork.com/busyon-slack/) kullanıyoruz. Yazılan check-in, check-out ve break'ler herkes tarafından anlaşılabilir ve yapılacak/yapılan işle alakalı yeteri kadar bilgi içermelidir.
 
 **Check-in**
 <br>Gün başladı ve artık ulaşılabilirim demektir. Her sabah saat 8:00 ile 8:15 arası ekibin tamamı işi başında check-in yapar ve gün içinde yapmayı planladığı görevleri sıralar.
@@ -60,7 +60,7 @@ Her günün sonunda kullanılan araçlardan (Slack, Jira, etc.) toplanan veriler
 Her sprint'in sonunda sprint başarısını ölçmek için sprint çıktılarının raporlanması (Pie-chart, success & failures, lessons, Do's and Don't's vs.)
 <br>
 
-## Bayrak Kaldırma
+## Bayrak Kaldırma 🚩
 
 Dikkat edilmesi ve ekibin dikkatinin çekilmesi gereken noktalarda bunu yönetici/ekip bilmeli. Önlem almak için dikkat edilmesi gereken herhangi bir konu oluştuğunda bunun gündeme getirilmesi.
 
