@@ -57,7 +57,7 @@ Her günün sonunda kullanılan araçlardan (Slack, Jira, etc.) toplanan veriler
 
 ## Sprint Durum Raporu (Planning, review ve retro)
 
-Her sprint'in sonunda sprint başarısını ölçmek için sprint çıktılarının raporlanması (Pie-chart, success & failures, lessons, Do's and Don't's vs.)
+Her sprint'in sonunda sprint başarısını ölçmek için sprint çıktılarının raporlanması (Pie-chart, success & failures, lessons, Do's and Don't's vs. )
 <br>
 
 ## Bayrak Kaldırma
