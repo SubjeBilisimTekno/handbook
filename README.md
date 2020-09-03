@@ -25,9 +25,10 @@ Bunun için Slack üzerinde [BotMyWork](https://botmywork.com/busyon-slack/) kul
 
 <details>
 <summary>8:15 saatini kaçırdım ne yapmalıyım?</summary>
-<br>
+<br><pre>
 Ekip üyelerinin gün içinde toplam 8 saat çalışmaları öngörülüyor, istenmeyen bir durumdan dolayı sabah geç güne başlanırsa akşam saatlerinde telafi edilebilir. Tekrarlandığı durumda yöneticiden uyarı ve çözüm için birebir görüşme talebi gelir. Çalışma ve iş başında olduğun her an erişilebilir olmalısın, olamayacağın zaman önceden bununla ilgili yöneticiyi haberdar etmen gerekir.
 <br><br>
+</pre>
 </details>
 
 <details>
