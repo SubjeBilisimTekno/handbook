@@ -43,18 +43,22 @@ Evet, güne başladığın saat bilgisayar başında, ve ulaşılabilir olduğun
 Yöneticiden izin alman gerekir, uygun görüldüğü takdirde evet remote esnek çalışma yapılabilir.
 <br><br>
 </details>
+<br>
 
 ## Jira ve Trello Kullanılması
 
 Yapılması planlanan, yapılıyor ve tamamlandı/kontrol aşamasında olan işlemlerin kırılımlı halde Trelloda belirtilmesi (Bu maddeler her sprint'in başında belirlenecek olup sprint süresi içerisinde bitirilmesi beklenir)
+<br>
 
 ## Gün Sonu Raporu
 
 Her günün sonunda kullanılan araçlardan (Slack, Jira, etc.) toplanan verilerin kümülatif halde tek bir yerde tutulması.
+<br>
 
 ## Sprint (Planning, review ve retro) Durum Raporu
 
 Her sprint'in sonunda sprint başarısını ölçmek için sprint çıktılarının raporlanması (Pie-chart, success & failures, lessons, Do's and Don't's vs.)
+<br>
 
 ## Bayrak Kaldırma
 
