@@ -1,6 +1,6 @@
 # Subje Bilişim Handbook
 
-Şirketin çalışma disiplinleriyle kuralların bulunduğu kılavuz.
+Şirketin çalışma disiplinleriyle ilgili kuralların bulunduğu kılavuz.
 
 ## Remote Çalışma
 
