@@ -10,7 +10,7 @@ Her Pazartesi, Çarşamba ve Cuma günleri saat 9:00-12:00 arası yapılır. Paz
 
 ### Check-in, Check-out ve Break.
 
-Bunun için Slack üzerinde 👾[BotMyWork](https://botmywork.com/busyon-slack/) kullanıyoruz. Yazılan check-in, check-out ve break'ler herkes tarafından anlaşılabilir ve yapılacak/yapılan işle alakalı yeteri kadar bilgi içermelidir.
+Bunun için Slack üzerinde bot kullanıyor olacağız. Yazılan check-in, check-out ve break'ler herkes tarafından anlaşılabilir ve yapılacak/yapılan işle alakalı yeteri kadar bilgi içermelidir.
 
 **Check-in**
 <br>Gün başladı ve artık ulaşılabilirim demektir. Her sabah saat 8:00 ile 8:15 arası ekibin tamamı işi başında check-in yapar ve gün içinde yapmayı planladığı görevleri sıralar.
@@ -47,7 +47,7 @@ Yöneticiden izin alman gerekir, uygun görüldüğü takdirde evet remote esnek
 
 ## Jira ve Trello Kullanılması
 
-Yapılması planlanan, yapılıyor ve tamamlandı/kontrol aşamasında olan işlemlerin kırılımlı halde Trelloda belirtilmesi (Bu maddeler her sprint'in başında belirlenecek olup sprint süresi içerisinde bitirilmesi beklenir)
+Yapılması planlanan, yapılıyor ve tamamlandı/kontrol aşahttps://standuply.com/masında olan işlemlerin kırılımlı halde Trelloda belirtilmesi (Bu maddeler her sprint'in başında belirlenecek olup sprint süresi içerisinde bitirilmesi beklenir)
 <br>
 
 ## Gün Sonu Raporu
@@ -63,6 +63,12 @@ Her sprint'in sonunda sprint başarısını ölçmek için sprint çıktıların
 ## Bayrak Kaldırma 🚩
 
 Dikkat edilmesi ve ekibin dikkatinin çekilmesi gereken noktalarda bunu yönetici/ekip bilmeli. Önlem almak için dikkat edilmesi gereken herhangi bir konu oluştuğunda bunun gündeme getirilmesi.
+
+## Standuply Kullanımı
+Her sabah standup raporu
+Gün sonu stand-down raporu
+Retrospektif raporu
+....
 
 > **Eklenmesi gereken diğer şeyler**
 >
